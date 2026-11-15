@@ -1,0 +1,47 @@
+{
+ "app": "Beauty Salon Appointments App",
+ "start": "screen-1",
+ "screens": [
+  {
+   "slug": "screen-2",
+   "name": "Screen_2",
+   "page": "Design",
+   "w": 375,
+   "h": 812,
+   "elements": 21,
+   "links": 2
+  },
+  {
+   "slug": "screen-3",
+   "name": "Screen_3",
+   "page": "Design",
+   "w": 375,
+   "h": 812,
+   "elements": 67,
+   "links": 2
+  },
+  {
+   "slug": "screen-4",
+   "name": "Screen_4",
+   "page": "Design",
+   "w": 375,
+   "h": 812,
+   "elements": 299,
+   "links": 2
+  },
+  {
+   "slug": "screen-1",
+   "name": "Screen_1",
+   "page": "Design",
+   "w": 375,
+   "h": 812,
+   "elements": 10,
+   "links": 1
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter",
+  "poppins"
+ ]
+}
